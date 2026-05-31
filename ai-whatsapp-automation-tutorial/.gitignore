@@ -1,0 +1,21 @@
+# Rahasia - JANGAN pernah di-commit
+.env
+
+# Database lokal (lead & state percakapan)
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Environment-specific (pyenv)
+.python-version

@@ -1,0 +1,17 @@
+# ===== Inti AI Agent =====
+google-generativeai==0.8.3      # Gemini API (LLM otak si agent)
+python-dotenv==1.0.1            # Membaca file .env (API key)
+
+# ===== Data Solana & Crypto =====
+requests==2.32.3               # HTTP client untuk memanggil API (DexScreener, Helius)
+
+# ===== Interface =====
+python-telegram-bot==21.6      # Bot Telegram sebagai antarmuka agent
+
+# ===== Penyimpanan & Analisa =====
+# sqlite3 sudah bawaan Python, tidak perlu di-install
+
+# ===== Opsional: untuk membuat diagram & PDF tutorial =====
+matplotlib==3.9.4
+reportlab==4.5.1
+Pillow==11.3.0

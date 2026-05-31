@@ -1,0 +1,47 @@
+{
+  "business": {
+    "name": "Toko Maju Jaya",
+    "deskripsi": "Toko yang menjual paket jasa pembuatan website & otomatisasi WhatsApp untuk UMKM.",
+    "alamat": "Jl. Sudirman No. 123, Lantai 5, Jakarta Selatan",
+    "jam_operasional": "Senin-Jumat 09.00-18.00 WIB, Sabtu 09.00-14.00 WIB",
+    "kontak": "0812-3456-7890 / email: halo@majujaya.id"
+  },
+  "faqs": [
+    {
+      "id": "harga",
+      "pertanyaan": "Berapa harga / biaya paketnya?",
+      "keywords": ["harga", "biaya", "tarif", "paket", "berapa", "price"],
+      "jawaban": "Berikut ringkasan paket kami:\n\n- Paket Hemat: Rp 500.000 (auto-reply + FAQ dasar)\n- Paket Normal: Rp 1.500.000 (auto-reply + FAQ + greeting + lead capture)\n- Paket Pro: Rp 3.500.000 (semua fitur + integrasi CRM + analitik)\n\nMau saya kirimkan rincian tiap paket?"
+    },
+    {
+      "id": "lokasi",
+      "pertanyaan": "Di mana lokasi/alamat kantor?",
+      "keywords": ["lokasi", "alamat", "dimana", "kantor", "maps", "tempat"],
+      "jawaban": "Kantor kami ada di:\nJl. Sudirman No. 123, Lantai 5, Jakarta Selatan.\n\nMau saya kirimkan link Google Maps-nya?"
+    },
+    {
+      "id": "jam",
+      "pertanyaan": "Jam buka / jam operasional?",
+      "keywords": ["jam", "buka", "operasional", "tutup", "kapan", "hari"],
+      "jawaban": "Jam operasional kami:\n- Senin-Jumat: 09.00-18.00 WIB\n- Sabtu: 09.00-14.00 WIB\n- Minggu & libur: Tutup\n\nNamun chat ini aktif 24 jam untuk membantu pertanyaan dasar kamu."
+    },
+    {
+      "id": "cara_pesan",
+      "pertanyaan": "Bagaimana cara pesan / order?",
+      "keywords": ["pesan", "order", "beli", "cara", "daftar", "pasang"],
+      "jawaban": "Cara pesan sangat mudah:\n1. Pilih paket yang cocok\n2. Tim kami bantu setup 3-7 hari kerja\n3. Bayar setelah demo disetujui\n\nMau saya bantu daftarkan sekarang? Ketik *DAFTAR* ya."
+    },
+    {
+      "id": "garansi",
+      "pertanyaan": "Apakah ada garansi / revisi?",
+      "keywords": ["garansi", "revisi", "refund", "jaminan", "ganti"],
+      "jawaban": "Tentu! Semua paket termasuk revisi minor gratis selama 14 hari setelah serah terima. Untuk Paket Pro, kami beri dukungan prioritas 30 hari."
+    },
+    {
+      "id": "pembayaran",
+      "pertanyaan": "Metode pembayaran apa saja?",
+      "keywords": ["bayar", "pembayaran", "transfer", "qris", "dp", "cicil"],
+      "jawaban": "Kami menerima transfer bank (BCA/Mandiri), QRIS, dan e-wallet. Bisa DP 50% di awal, pelunasan setelah demo disetujui."
+    }
+  ]
+}
